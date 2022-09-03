@@ -1,2 +1,2 @@
-GIT WS1
-Data on Titanic
+# GIT WS 1
+## Data on Titanic
